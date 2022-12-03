@@ -8,4 +8,8 @@ public class UltimaPrueba {
         System.out.println("segundo commit");
     }
     
+    public void imprimirMain(){
+        System.out.println("soy un main");
+    }
+    
 }
